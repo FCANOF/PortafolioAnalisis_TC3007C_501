@@ -19,7 +19,5 @@ La carpeta raíz de este repositorio contiene los siguientes archivos y carpetas
 
 A continuación, se presenta una lista de los archivos que deben ser revisados para calificar cada subcompetencia. Cabe mencionar que para esta etapa, **Momento de Retroalimentación**, se debe situar en la carpeta `Retroalimentación`:
 
-*  `MR1_Metodologia`
-   * `\ReadMe.md`: Archivo que describe la entrega de este momento.
-   * `\archivo.pdf`: Archivo donde se desarrolla la evidencia.
+*  [Momento de Retroalimentación_ Reto Privacidad y Seguridad de los Datos.pdf](https://github.com/FCANOF/PortafolioAnalisis_TC3007C_501/blob/main/Retroalimentacion/Momento%20de%20Retroalimentaci%C3%B3n_%20Reto%20Privacidad%20y%20Seguridad%20de%20los%20Datos.pdf) : Archivo donde se comentan los elementos de seguridad de datos relevantes para el proyecto.
    
